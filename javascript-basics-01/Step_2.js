@@ -1,5 +1,5 @@
 var name="Moussa",
-    surname="Maria"
+    surname="Maria",
     city="Alma";
 
 window.alert("\n Nom : "+ name+
